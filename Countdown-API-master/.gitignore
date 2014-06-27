@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings
+target
+tmp-git-deployment-staging
+
+/.idea/
+
+.DS_Store
+
+/.DS_Store
